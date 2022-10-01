@@ -1,0 +1,38 @@
+{
+    "projects": [
+        {
+            "title": "News App",
+            "description": "News webapp Build with React,Bootstrap. We can read daily news in each category using this app. This Application is Built using News API. For Routing purposes, we use react-router.",
+            "languages": [
+                "JavaScript",
+                "React",
+                "Bootstrap 5",
+                "React Router"
+            ],
+            "github": "https://github.com/aritraghorai/My-News-App",
+            "img": "/Images/newsApp.png"
+        },
+        {
+            "title": "Weather App",
+            "description": "Weather web app built with React, Weather API. Users can see weather data by typing the name of the place.",
+            "languages": [
+                "React JS",
+                "OpenWeather-API"
+            ],
+            "demo": "https://weather-app-ten-amber.vercel.app/",
+            "github": "https://github.com/johnuberbacher/vue-chat",
+            "img": "/Images/Weather-app.png"
+        },
+        {
+            "title": "Qr Code Generator",
+            "description": "Qr Code Generator Build with React. Users can generate a QR code of any URL.",
+            "languages": [
+                "React JS",
+                "Qrcode"
+            ],
+            "demo": "https://qrcode-generator-six.vercel.app/",
+            "github": "https://github.com/aritraghorai/qrcode-generator",
+            "img": "./Images/qrcode.png"
+        }
+    ]
+}
